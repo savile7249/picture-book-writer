@@ -20,4 +20,3 @@ picture-book-writer/
 
 ## 安装与使用
 - **OpenClaw / Claude Code / Codex**：将本目录复制或克隆至 Agent 的 `skills/` 目录下。
-# picture-book-writer
