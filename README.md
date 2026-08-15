@@ -17,6 +17,3 @@ picture-book-writer/
 3. **TTS 纯净排版**：【绘本文字】段落零 Markdown 干扰，天然适合声音克隆语音合成。
 4. **用画面呈现 (Show, Don't Tell)**：内置表达转换表，拒绝成人黑话与说明文腔调。
 5. **IP 覆盖机制**：支持配置 `references/ip-overrides.md` 复用固定角色造型与道具。
-
-## 安装与使用
-- **OpenClaw / Claude Code / Codex**：将本目录复制或克隆至 Agent 的 `skills/` 目录下。
